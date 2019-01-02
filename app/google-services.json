@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844441224326",
+    "firebase_url": "https://awesome-a127a.firebaseio.com",
+    "project_id": "awesome-a127a",
+    "storage_bucket": "awesome-a127a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844441224326:android:9fccc5a9181f5ffc",
+        "android_client_info": {
+          "package_name": "databinding.rapidera.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844441224326-aajpn379c48drgc5leeg4uv3gjvknkn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "databinding.rapidera.firebasedemo",
+            "certificate_hash": "0be5eff9ae33489cbad09827e5b93e766f19794a"
+          }
+        },
+        {
+          "client_id": "844441224326-mmf7mqs8f7t8gj4amsi0v8snog3lche0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeFfEKpMSiFYQFfww7dSk0vON5bPIMgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844441224326-mmf7mqs8f7t8gj4amsi0v8snog3lche0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
